@@ -1,7 +1,9 @@
 {
   "name": "vue-slot-machine",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "author": "Parsa Jiravand",
+  "description": "This is a simple slot machine game made with Vue 3 and TypeScript. It is a simple game where you can bet and win coins. The game is over when you run out of money.",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -32,6 +34,9 @@
     "vue-slot-machine",
     "game",
     "vue-game",
-    "vue-simple-slot-machine"
+    "vue-simple-slot-machine",
+    "slot-machine-game",
+    "slot-machine-vue",
+    "slot-machine-vue3"
   ]
 }
